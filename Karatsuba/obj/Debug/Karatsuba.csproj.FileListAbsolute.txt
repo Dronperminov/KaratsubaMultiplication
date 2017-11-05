@@ -1,0 +1,7 @@
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\bin\Debug\Karatsuba.exe.config
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\bin\Debug\Karatsuba.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\bin\Debug\Karatsuba.pdb
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\obj\Debug\Karatsuba.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\obj\Debug\Karatsuba.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\obj\Debug\Karatsuba.exe
+C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\Karatsuba\Karatsuba\obj\Debug\Karatsuba.pdb
